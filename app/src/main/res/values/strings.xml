@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyPhoneBook</string>
+
+    <string name="add_new_contact">Add new contact</string>
+    <string name="imageContact">image contact</string>
+
+    <!-- Spinner Auswahl der Beziehung zum Kontakt in item_contact -->
+    <string-array name="relationship">
+        <item>best friend</item>
+        <item>friend</item>
+        <item>foe</item>
+        <item>nobody</item>
+        <item>bitch</item>
+    </string-array>
+
+</resources>
